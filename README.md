@@ -1,15 +1,11 @@
 ### Hi there 👋
-
-**sumanthadari/sumanthadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+🎓 I’m an Undergrad at <b>IIIT Bhagalpur<b> with a major in Electronics and Communication Engineering
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with cv
 - 💬 Ask me about Any tech releacted stuff
 - 📫 How to reach me: sumanthadari40@gmail.com     
-- [instagram](https://www.instagram.com/sumanth._.06/)
+- [Instagram](https://www.instagram.com/sumanth._.06/)        [linkedin](https://www.linkedin.com/in/sai-sumanth-59a3b01aa/)    
 - 😄 Pronouns: he/him
 
 
